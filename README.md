@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Eunilton
 
-💻 Estudante de programação focado em desenvolvimento Front-end
+💻 Estudante de programação
 🚀 Construindo projetos práticos com JavaScript, lógica de negócio e interfaces web
 
 ---
