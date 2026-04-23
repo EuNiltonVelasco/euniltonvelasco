@@ -38,6 +38,6 @@ Buscando oportunidade de estágio para aplicar meus conhecimentos em projetos re
 
 👉 [Simulador de Crédito](https://github.com/euniltonvelasco/simulador-de-credito)
 
-👉 [Mini Loja Virtual](https://github.com/euniltonvelasco/mini-loja-virtual)
+👉 [Mini Loja Virtual](https://github.com/euniltonvelasco/loja-virtual-1.0/)
 
-👉 [Eumentor](https://github.com/euniltonvelasco/eumentor)
+👉 [Neurofoco](https://github.com/euniltonvelasco/neurofoco_1.0/)
