@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Eunilton
+👋 Olá, me chamo Nilton
 
 💻 Estudante de programação
 🚀 Construindo projetos práticos com JavaScript, lógica de negócio e interfaces web
@@ -8,13 +8,13 @@
 🧠 Projetos em destaque
 
 - 💰 Simulador de Crédito
-  Sistema que calcula parcelas com base em juros compostos e regras de negócio
+  Sistema que calcula parcelas com base em juros compostos e regras de negócio e validaçao de valores
 
 - 🛒 Mini Loja Virtual
-  Interface de e-commerce com fluxo de navegação e interação do usuário
+  Interface de e-commerce com fluxo de navegação e interação do usuário em javscript
 
-- 📊 MVP Eumentor
-  Protótipo de plataforma com foco em conexão entre usuários
+- 📊 MVP Neurofoco
+  Protótipo de plataforma com foco em aprendizado baseado em Neuroplasticidade
 
 ---
 
