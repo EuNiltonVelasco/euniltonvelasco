@@ -32,9 +32,8 @@ Buscando oportunidade de estágio para aplicar meus conhecimentos em projetos re
 
 ---
 
-🔗 Acesse meus projetos
 
-## 🔗 Projetos
+ 🔗 Projetos
 
 <p align="center">
   <a href="https://euniltonvelasco.github.io/simulador-de-credito/">
